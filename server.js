@@ -119,6 +119,8 @@ app.get('/high-scores', function(req, res) {
   res.status(200).json(paginatedScores);
 });
 
+// new line of text
+
 //------ WRITE YOUR SOLUTION ABOVE THIS LINE ------//
 
 let serverInstance = null;
